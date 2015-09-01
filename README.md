@@ -15,11 +15,11 @@ Famous recipes to cook burgers.
 * 1 tablespoon dry mustard powder
 * 1/2 tablespoon black pepper
 * 1/2 tablespoon cayenne pepper
-* 1/2 teaspoon garlic salt
+* 1/2 teaspoon garlic powder
 * 100g brown sugar
 * 18cl cup cider vinegar
 * 1 bottle 500ml Heinz tomato ketchup
-* 150g cup molasses
+* 150g sirup of Liège
 * 13 cl Worcestershire sauce
 * 12 cl water
 
